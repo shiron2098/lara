@@ -15,4 +15,9 @@ class protectedaut
     {
         
     }
+
+    public function ract()
+    {
+
+    }
 }
