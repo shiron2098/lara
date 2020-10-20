@@ -22,4 +22,9 @@ class protectedaut
         echo 123;
 
     }
+
+    public function fdfd()
+    {
+        return 546;
+    }
 }
