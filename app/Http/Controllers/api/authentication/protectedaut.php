@@ -32,4 +32,9 @@ class protectedaut
     {
         
     }
+
+    public function panel()
+    {
+        
+    }
 }
