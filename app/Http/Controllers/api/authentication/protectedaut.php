@@ -1,19 +1,7 @@
 <?php
-require_once __DIR__ . '/../../vendor/autoload.php';
-require_once __DIR__ . '/abstractFunctionAut.php';
-require_once __DIR__ . '/../../config/t2s_users.php';
-require_once __DIR__ . '/../../common/MYSQLConnect.php';
-
-use \Firebase\JWT\JWT;
-
-header("Access-Control-Allow-Origin: *");
-header("Content-Type: application/json");
-header("Access-Control-Allow-Methods: POST");
-header("Access-Control-Max-Age: 3600");
-header("Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With");
 
 
-class protectedaut extends MYSQLConnect
+class protectedaut
 {
 
     public function selectkey($auttoken)
