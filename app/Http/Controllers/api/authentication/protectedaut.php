@@ -22,4 +22,9 @@ class protectedaut
         echo 123;
 
     }
+    public function fz()
+    {
+        echo 123;
+
+    }
 }
