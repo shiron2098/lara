@@ -27,4 +27,9 @@ class protectedaut
     {
         return dddd;
     }
+
+    public function rserese()
+    {
+        
+    }
 }
