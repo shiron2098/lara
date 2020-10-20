@@ -10,4 +10,21 @@ class protectedaut
         return $auttoken;
         echo 4534534534;
     }
+
+    public function retrt()
+    {
+        return  "4234";
+
+    }
+
+    public function ract()
+    {
+        echo 123;
+
+    }
+
+    public function fdfd()
+    {
+        return 546;
+    }
 }
