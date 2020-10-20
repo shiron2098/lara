@@ -7,8 +7,6 @@ class protectedaut
     private function checktoken($token)
     {
 
-        $arr = explode(" ", $token);
-        $jwt = $arr[1];
         try {
             $decoded = JWT::decode($jwt, userglobalkey, array('HS256'));
             if ($decoded->ext > time()) {
