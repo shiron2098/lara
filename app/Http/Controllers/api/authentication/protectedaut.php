@@ -16,4 +16,9 @@ class protectedaut
         return  "4234";
 
     }
+
+    public function ract()
+    {
+
+    }
 }
