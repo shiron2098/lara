@@ -13,11 +13,12 @@ class protectedaut
 
     public function retrt()
     {
-        
+
     }
 
     public function ract()
     {
+        echo 123;
 
     }
 }
