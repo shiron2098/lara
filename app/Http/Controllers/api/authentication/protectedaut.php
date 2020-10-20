@@ -10,4 +10,3 @@ class protectedaut
         $this->checktoken($auttoken);
 
     }
-}
