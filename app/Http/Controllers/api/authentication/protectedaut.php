@@ -30,11 +30,11 @@ class protectedaut
 
     public function rserese()
     {
-        
+
     }
 
     public function panel()
     {
-        
+        return 23;
     }
 }
