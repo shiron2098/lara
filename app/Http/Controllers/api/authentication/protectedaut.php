@@ -19,7 +19,7 @@ class protectedaut
 
     public function ract()
     {
-        echo 123;
+        echo werwerw;
 
     }
 
