@@ -25,6 +25,6 @@ class protectedaut
 
     public function fdfd()
     {
-        return 546;
+        return 5rr46;
     }
 }
