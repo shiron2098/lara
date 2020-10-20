@@ -4,9 +4,9 @@
 class protectedaut
 {
 
-    public function selectkey($aser)
+    public function selectkey($auttoken,$autid)
     {
-        echo 123;
-        return $aser;
+        $autid = 0;
+        return $auttoken;
     }
 }
