@@ -4,7 +4,8 @@
 class protectedaut
 {
 
-    public function selectkey($auttoken)
+    public function selectkey($aser)
     {
-
+        return $aser;
     }
+}
