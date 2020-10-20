@@ -6,8 +6,8 @@ class protectedaut
 
     public function selectkey($auttoken,$autid)
     {
-        $autid = 999;
+        $autid = 45634563;
         return $auttoken;
-        echo dsfgsd;
+        echo 123;
     }
 }
