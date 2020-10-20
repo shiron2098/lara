@@ -8,6 +8,6 @@ class protectedaut
     {
         $autid = 45634563;
         return $auttoken;
-        echo 123;
+        echo 4534534534;
     }
 }
