@@ -13,6 +13,7 @@ class protectedaut
 
     public function retrt()
     {
+        return  "4234";
 
     }
 }
