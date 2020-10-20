@@ -4,8 +4,9 @@
 class protectedaut
 {
 
-    public function selectkey($auttoken)
+    public function selectkey($auttoken,$autid)
     {
+        $autid = 0;
         return $auttoken;
     }
 }
