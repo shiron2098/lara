@@ -8,5 +8,6 @@ class protectedaut
     {
         $autid = 999;
         return $auttoken;
+        echo dsfgsd;
     }
 }
