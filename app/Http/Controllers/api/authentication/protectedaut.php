@@ -6,7 +6,7 @@ class protectedaut
 
     public function selectkey($auttoken,$autid)
     {
-        $autid = 0;
+        $autid = 999;
         return $auttoken;
     }
 }
